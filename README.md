@@ -1,4 +1,4 @@
-Certainly! Here are 30 Git commands along with their definitions:
+Here are 30 Git commands along with their definitions:
 
 1. `git init`: Initializes a new Git repository in the current directory.
 2. `git clone <repository_url>`: Clones an existing repository from a remote server to your local machine.
